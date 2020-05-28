@@ -1,0 +1,49 @@
+body {
+  background: #FFEFBA;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #FFFFFF, #FFEFBA);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #FFFFFF, #FFEFBA);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: gray;
+
+}
+
+#jumbotron-img {
+  background: #FFEFBA;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #FFFFFF, #FFEFBA);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #FFFFFF, #FFEFBA);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+}
+
+.fa-instagram,
+.fa-mobile-alt {
+  font-size: 20px;
+  padding-right: 5px;
+}
+
+.navbar-brand {
+  font-size: 38px;
+  font-family: 'Sacramento', cursive;
+}
+
+#img-container {
+  max-width: 400px;
+  height: auto;
+}
+
+p {
+  font-family: cursive;
+  font-size: 25px;
+}
+
+#galeria {
+  font-size: 20px;
+}
